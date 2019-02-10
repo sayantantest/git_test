@@ -1,1 +1,6 @@
 I love Cake
+
+quality:
+. soft
+. white
+. berries
