@@ -4,3 +4,11 @@ quality:
 . soft
 . white
 . berries
+
+Brands:
+-----------
+
+-> Monginies
+-> Paramount
+-> Swiss Delight
+-> London Dreams
